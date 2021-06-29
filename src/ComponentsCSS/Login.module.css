@@ -1,0 +1,17 @@
+* {
+}
+
+.container {
+  margin-top: 200px;
+  text-align: center;
+}
+input {
+  padding: 3px;
+  border-color: rgba(126, 175, 146, 0.733);
+  border-width: 2px;
+  border-radius: 3px;
+}
+.confirmButton {
+  margin-top: 10px;
+  width: 5em;
+}

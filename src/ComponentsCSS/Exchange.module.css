@@ -1,0 +1,25 @@
+.container {
+  padding: 100px;
+  border-width: 10px;
+  border-color: black;
+  text-align: center;
+}
+.test * {
+  display: grid;
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+  background-color: orange;
+  color: red;
+}
+.inputNumber {
+  border-color: white;
+  border-width: 1px;
+  padding: 0;
+  text-align: center;
+}
+.form {
+  border: none;
+  color: red;
+  background-color: orangered;
+}

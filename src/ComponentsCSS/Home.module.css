@@ -1,0 +1,29 @@
+.container {
+  background-color: rgba(121, 233, 118, 0.932);
+  border-width: 10px;
+  border-color: black;
+  text-align: center;
+  color: white;
+}
+ul {
+  text-align: center;
+}
+.container img {
+  width: 2%;
+}
+.search {
+  text-align: center;
+  height: 150%;
+}
+.input {
+  height: 40px;
+  width: 300px;
+}
+.row {
+  border: 2px;
+  border-color: orangered;
+  text-align: left;
+}
+.test {
+  color: red;
+}

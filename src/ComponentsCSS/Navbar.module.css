@@ -1,0 +1,18 @@
+.nav {
+  display: grid;
+  padding: 20px;
+  /* background-color: rgb(54, 38, 38); */
+  text-align: center;
+}
+.container {
+}
+.elem {
+}
+.item {
+  text-decoration: none;
+  color: green;
+  padding: 100px;
+}
+.item:hover {
+  color: rgb(68, 68, 248);
+}
